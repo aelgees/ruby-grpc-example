@@ -29,3 +29,18 @@ To start the Rails server and client, run the following command:
 To stop the Rails server and client, run the following command:
 
     make stop
+    
+## Information
+Here is a description of the two endpoints in the API you provided:
+
+**localhost:8002/books** - This endpoint returns a list of books in the form of a JSON object with a "data" field. The "data" field is an array of objects, each representing a book with the following fields:
+
+- "id": a unique identifier for the book
+- "title": the title of the book
+- "description": a brief description of the book
+- "tags": an array of tags associated with the book
+- "price": the price of the book
+
+**localhost:8002/books/:id** - This endpoint returns a single book in the form of a JSON object with a "data" field. The "data" field is an object representing a book with the same fields as described for the **localhost:8002/books** endpoint. The :id parameter in the endpoint specifies the unique identifier of the book you want to retrieve.
+
+For example, if you make a GET request to **localhost:8002/books/1001**, the API will return the book with the id 1001.
