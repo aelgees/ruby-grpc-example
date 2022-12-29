@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1001,
+    "title": "The Great Gatsby",
+    "description": "The Great Gatsby is a novel by F. Scott Fitzgerald, set in the United States during the Roaring Twenties. It tells the story of the rise and fall of the mysterious millionaire Jay Gatsby and his love for the beautiful Daisy Buchanan.",
+    "tags": ["fiction", "classics", "romance"],
+    "price": 9.99
+  },
+  {
+    "id": 1002,
+    "title": "To Kill a Mockingbird",
+    "description": "To Kill a Mockingbird is a novel by Harper Lee, set in the Southern United States during the 1930s. It tells the story of a young girl named Scout Finch, who learns about racism and injustice in her hometown of Maycomb, Alabama.",
+    "tags": ["fiction", "classics", "southern", "coming of age"],
+    "price": 11.99
+  },
+  {
+    "id": 1003,
+    "title": "Pride and Prejudice",
+    "description": "Pride and Prejudice is a novel by Jane Austen, set in England in the early 19th century. It tells the story of the Bennett family and their search for love and marriage in a society where social status and wealth are highly valued.",
+    "tags": ["fiction", "classics", "romance", "historical"],
+    "price": 8.99
+  },
+  {
+    "id": 1004,
+    "title": "The Catcher in the Rye",
+    "description": "The Catcher in the Rye is a novel by J.D. Salinger, set in the United States in the 1950s. It tells the story of Holden Caulfield, a young man who is expelled from prep school and wanders around New York City, struggling with feelings of alienation and loss.",
+    "tags": ["fiction", "coming of age", "realism"],
+    "price": 7.99
+  }
+]
